@@ -15,7 +15,8 @@ function App() {
      
         {data} <br /> <br />
         <button onClick={handeClick}>Click me</button>
-        <Counter/>
+      <Counter />
+      <h1>Yes My site is readyy</h1>
     
     </div>
   );
