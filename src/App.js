@@ -17,6 +17,7 @@ function App() {
         <button onClick={handeClick}>Click me</button>
       <Counter />
       <h1>Yes My site is ready</h1>
+      <h2>It is wondefull to learn Ract</h2>
     
     </div>
   );

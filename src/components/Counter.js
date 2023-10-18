@@ -12,7 +12,7 @@ export default function Counter() {
   return (
     <div>
       <h1>Counter App</h1>
-      <div>{counter} </div>
+      <div style={{fontSize:150, backgroundColor:"yellow", padding:10, margin:250}} >{counter} </div>
       <button onClick={handelClick1}>Increment</button> <br />
       <br />
       <button onClick={handelClick2}>Decrement</button>
